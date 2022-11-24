@@ -1,6 +1,4 @@
-Hello there 👋
-
-![Random Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default)
+# Your friendly CTO next door
 
 Thanks for coming to my profile. Here is a few things to know me better:
 
