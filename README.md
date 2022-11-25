@@ -1,4 +1,4 @@
-Hello there 👋
+Your friendly CTO Next Door 👋
 
 Thanks for coming to my profile. Here is a few things to know me better:
 
